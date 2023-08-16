@@ -1,6 +1,6 @@
 import java.io.*;
 class Weekday{
-   
+   //hi my name is shivani
  public static void main(String...args)throws Exception
 
 {
