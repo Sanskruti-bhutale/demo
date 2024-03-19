@@ -1,4 +1,5 @@
-import java.util.*;
+
+import java.util.Scanner;
 class Guesser{
 	int guessNum;
 	public int guessingNum()
