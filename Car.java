@@ -2,7 +2,7 @@ package com.sans.oop_practice;
 
 public class Car extends Vehicle {
 	boolean luxuryCar;
-	double rent;
+	
 	public Car(boolean luxaryCar,int vehicleId,String brand,double dailyRate) {
 		super(vehicleId, brand, dailyRate);
 		this.luxuryCar=luxaryCar;
@@ -10,6 +10,7 @@ public class Car extends Vehicle {
 	}
 	@Override
 	double calculateRent(int days) {
+		double rent;
 		if(luxuryCar) {
 			rent=getDailyRate() * days * 1.5;
 			
@@ -19,6 +20,4 @@ public class Car extends Vehicle {
 		return rent;
 		
 	}
-	
-
 }

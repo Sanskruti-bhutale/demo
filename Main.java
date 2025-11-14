@@ -7,7 +7,7 @@ public class Main{
 	Rental rent = new Rental(customer, car, 3);
 	rent.displayRentalSummary();
 	Bike bike = new Bike(180, 102, "Hero",1000);
-	 rent = new Rental(customer, bike, 3);
+	 rent = new Rental(customer, bike, 4);
 	 rent.displayRentalSummary();
 	 
 	}
