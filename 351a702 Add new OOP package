@@ -1,0 +1,6 @@
+[33md5af780[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/maiin[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaiin[m[33m)[m HEAD@{0}: checkout: moving from maiin to main
+[33md5af780[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/maiin[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaiin[m[33m)[m HEAD@{1}: checkout: moving from master to maiin
+[33m351a702[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{2}: rebase (finish): returning to refs/heads/master
+[33m351a702[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{3}: commit: Add new OOP package
+[33m4109841[m HEAD@{4}: pull origin main --rebase (start): checkout 41098416ad6420915214f3b5e8688cd6f267bd0f
+[33md5af780[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/maiin[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaiin[m[33m)[m HEAD@{5}: commit (initial): Initial commit
