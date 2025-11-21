@@ -66,7 +66,6 @@ public class MainApp {
             }
         }
 
-        // Print Summary
         System.out.println("\n----------- ORDER SUMMARY ------------");
         customer.CustomerDetails();
         System.out.println();
