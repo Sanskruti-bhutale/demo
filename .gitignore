@@ -1,0 +1,32 @@
+
+*.class
+#Ignore compiled class files
+bin/ *.class bin/ out/ target/
+out/
+
+target/# Ignore compiled class files
+
+*.class
+
+
+# Ignore build directories
+
+bin/
+
+out/
+
+target/
+
+# Ignore compiled class files
+
+*.class
+
+
+# Ignore build directories
+
+bin/
+
+out/
+
+target/
+
